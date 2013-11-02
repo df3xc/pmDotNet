@@ -1,4 +1,4 @@
 pmDotNet
 ========
 
-DotNet C# Library for power socket
+DotNet C# Library for USB controlled power socket
