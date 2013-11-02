@@ -1,4 +1,4 @@
-﻿namespace PMDLLTestCSharp
+﻿namespace TestDotNetLib
 {
     partial class Form1
     {
@@ -72,7 +72,6 @@
             this.LogBox.Size = new System.Drawing.Size(478, 174);
             this.LogBox.TabIndex = 3;
             this.LogBox.Text = "";
-            this.LogBox.TextChanged += new System.EventHandler(this.LogBox_TextChanged);
             // 
             // btnSocketOn
             // 

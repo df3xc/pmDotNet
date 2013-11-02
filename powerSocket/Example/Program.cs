@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 
 
-namespace PMDLLTestCSharp
+namespace TestDotNetLib
 {
 
     static class Program

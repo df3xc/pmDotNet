@@ -8,8 +8,8 @@
     <ProjectGuid>{29053B81-497E-4E22-8745-559DF8C0F400}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PMDLLTestCSharp</RootNamespace>
-    <AssemblyName>PMDLLTestCSharp</AssemblyName>
+    <RootNamespace>TestDotNetLib</RootNamespace>
+    <AssemblyName>Test</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>

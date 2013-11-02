@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using enerGenieDotNet;
 
-namespace PMDLLTestCSharp
+namespace TestDotNetLib
 {
     public partial class Form1 : Form
     {
