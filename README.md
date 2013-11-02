@@ -21,8 +21,7 @@ You need to copy the DLL into the directory of your assembly.
 
 In order to make everthing running:
 
-You need to select target framework 3.5 
-You need to select target platformm x86 (32bit CPU)
+You need to select target framework 3.5 and target platform x86 (32bit CPU)
 
 If you are using Visual Studio 2010 express:
 Menu Tools
