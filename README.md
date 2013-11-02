@@ -8,9 +8,7 @@ Select power manager, support
 
 This link may help : http://gmb.nl/item.aspx?id=7415
 
-## Download the file:
-
-Power Manager CD-Pack v.6.0.0.9 (69859 kb)
+## Download the file: Power Manager CD-Pack v.6.0.0.9 (69859 kb)
 
 The file contains 
 - the native DLL  PMDll.dll (for 32bit CPU)
