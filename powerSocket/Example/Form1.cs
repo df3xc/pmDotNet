@@ -52,5 +52,53 @@ namespace TestDotNetLib
             powerSocket.setSwitchState(device, (int)tBsocket.Value, false);
         }
 
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked == true)
+            {
+                powerSocket.setSwitchState(device, 0, true);
+            }
+            else
+            {
+                powerSocket.setSwitchState(device, 0, false);
+            }
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox2.Checked == true)
+            {
+                powerSocket.setSwitchState(device, 1, true);
+            }
+            else
+            {
+                powerSocket.setSwitchState(device, 1, false);
+            }
+        }
+
+        private void checkBox3_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox3.Checked == true)
+            {
+                powerSocket.setSwitchState(device, 2, true);
+            }
+            else
+            {
+                powerSocket.setSwitchState(device, 2, false);
+            }
+        }
+
+        private void checkBox4_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox4.Checked == true)
+            {
+                powerSocket.setSwitchState(device, 3, true);
+            }
+            else
+            {
+                powerSocket.setSwitchState(device, 3, false);
+            }
+        }
+
     }
 }
