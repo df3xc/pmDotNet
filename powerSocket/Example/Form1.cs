@@ -100,5 +100,10 @@ namespace TestDotNetLib
             }
         }
 
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            powerSocket.CloseDevice(device);
+        }
+
     }
 }
